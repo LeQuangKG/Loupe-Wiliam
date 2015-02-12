@@ -1,0 +1,46 @@
+﻿
+
+.mainenverlop,.items,.frontside,.listimgenv,.backimgshow,.backimgshow2{
+	position: absolute;
+	left:0px;
+	top:0px;
+	
+}
+
+.mainenverlop{
+	left:91px;
+	768px;
+}
+
+.frontside{
+	width:927px;
+	height:321px;
+	left:44px;
+	top:427px;
+	z-index:1;
+	background:url(../images/frontside.png) no-repeat;
+}
+
+.listimgenv{
+	
+	width:820px;
+	height:617px;
+}
+
+.backimgshow{
+	width:805px;
+	height:15px;
+	top:-13px;
+	left:7px;
+	background:url(../images/benverlop.jpg) no-repeat;
+	overflow:hidden;
+}
+
+.backimgshow#backimgshow1{
+	width:790px;
+	height:15px;
+	top:-27px;
+	left:14px;
+	background:url(../images/benverlop.jpg) no-repeat;
+	overflow:hidden;
+}
